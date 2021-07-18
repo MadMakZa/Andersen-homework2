@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndersenHomeWork2</string>
+    <string name="botton_add">+</string>
+    <string name="botton_del">-</string>
+    <string name="crow_count">0</string>
+    <string name="crow_stage1">Ворона улетела!</string>
+    <string name="crow_stage2">Ворон нет!</string>
+    <string name="crow_stage3">Еще одна ворона!</string>
+</resources>
